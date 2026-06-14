@@ -1,0 +1,8 @@
+{
+  "name": "Millikan Oil Drop Simulator",
+  "description": "شبیه‌ساز سه‌بعدی و دوبعدی فیزیکی آزمایش قطره روغن میلیکان برای اندازه‌گیری بار کوانتیده الکترون همراه با خطای آزمایشگاهی واقعی، میکرومتر، دکمه پمپ قطرات، کنترل ولتاژ صفحات، پیچ کانون‌ساز دیجیتال و کرنومتر لمسی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
